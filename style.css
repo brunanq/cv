@@ -1,0 +1,179 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #FBC5C5;
+}
+
+h1 {
+    width: 50%;
+    margin: auto;
+    font-family: 'Bungee Shade';
+    font-size: 70px;
+    line-height: normal;
+    color: darkgoldenrod;
+}
+
+h2 {
+    width: 50%;
+    margin: auto; 
+    padding-bottom: 10px;
+    font-family: 'Share Tech Mono';
+    color: darkgoldenrod;
+    font-size: 23pt;
+    text-align: center;
+}
+
+h3 {
+    width: 50%;
+    margin: auto;
+    font-family: 'Share Tech Mono';
+    padding: 20px;
+    color: #2f3d17;
+    text-align: center;
+}   
+
+p {
+    width: 90%;
+    margin: auto;
+    padding: 8px;
+    font-family: 'Share Tech Mono';
+    color: #2f3d17;
+    line-height: 1.5;
+}
+
+a {
+    text-decoration: none;
+    color: #FBA1A1;
+    font-weight: bold;
+    font-size: 15pt;
+}
+
+a:hover {
+    color: #FBC5C5;
+}
+
+hr {
+    border-top: 8px dotted rgba(184, 134, 11, 0.3);
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
+    width: 9%;
+    margin: 80px auto;
+}
+
+.hello {
+    background-color: #FBC5C5;
+    width: 70%;
+    margin: auto;
+    padding-top: 100px;
+    position: relative;
+    text-align: center;
+    font-size: 14pt;
+}
+
+.subtitulo {
+    text-align: center;
+}
+
+.about {
+    background-color: #FBC5C5;
+    width: 70%;
+    position: relative;
+    margin: auto;
+    text-align: justify;
+    font-size: 14pt;
+}
+
+.skills {
+    background-color: #FBC5C5;
+    position: relative;
+    width: 70%;
+    margin: auto;
+    text-align: justify;
+    font-size: 14pt;
+}
+
+.contact {
+    background-color: #FBA1A1;
+    padding-top: 20px;
+    width: 70%;
+    position: relative;
+    margin: 50px auto 50px auto;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 14pt;
+}
+
+.botao {
+    padding: 30px;
+    text-align: center;
+}
+
+.img-principal {
+    width: 300px;
+    height: 300px;
+    padding: 50px;
+    top: 50px;
+}
+
+.dog {
+    width: 8%;
+    float: right;
+    margin-left: 30px;
+    padding: 20px;
+}
+
+.img-frontend {
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin-right: 30px;
+    padding: 20px;
+}
+
+.idiomas {
+    width: 80px;
+    height: 80px;
+    float: right;
+    margin-left: 30px;
+    padding: 20px;
+}
+
+.btn {
+    background: darkgoldenrod;
+    background-image: -webkit-linear-gradient(top, darkgoldenrod, rgb(145, 105, 6));
+    background-image: -moz-linear-gradient(top, darkgoldenrod);
+    background-image: -ms-linear-gradient(top,  darkgoldenrod);
+    background-image: -o-linear-gradient(top,  darkgoldenrod);
+    background-image: linear-gradient(to bottom,  darkgoldenrod);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 8px;
+    font-family: 'Share Tech Mono';
+    color: #2f3d17;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: gold;
+    background-image: -webkit-linear-gradient(top, darkgoldenrod, rgb(197, 145, 12));
+    background-image: -moz-linear-gradient(top, darkgoldenrod, rgb(197, 145, 12));
+    background-image: -ms-linear-gradient(top, darkgoldenrod, rgb(197, 145, 12));
+    background-image: -o-linear-gradient(top, darkgoldenrod, rgb(197, 145, 12));
+    background-image: linear-gradient(to bottom, darkgoldenrod, rgb(197, 145, 12));
+    text-decoration: none;
+  }
+
+  .teste {
+    background-color: rgb(194, 147, 29);
+    padding: 20px;
+    font-family: 'Share Tech Mono';
+    font-size: 10pt;
+    color: #2f3d17;
+  }
+
+  .copyright {
+    padding-top: 20px;
+  }
